@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+ .nunito{
+	font-family: 'Nunito', sans-serif;
+}
+
+.playfair{
+	font-family: 'Playfair Display SC', serif;
+}
